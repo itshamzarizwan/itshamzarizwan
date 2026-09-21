@@ -76,11 +76,11 @@
 
 ### 🚀 Featured Projects
 
-#### 📦 [NexaMart – Data Warehouse & KPI Reconciliation System](https://github.com/itshamzarizwan)
+#### 📦 [NexaMart – Data Warehouse & KPI Reconciliation System](https://github.com/itshamzarizwan/nexamart-dw-kpi-reconciliation-system)
 Enterprise-scale retail data warehouse built with Bronze/Silver/Gold medallion architecture and Kimball dimensional modeling. Integrated 843K+ records from 61 tables into Snowflake, with 13 dimensions, 14 fact tables, and automated KPI reconciliation feeding trusted Tableau reporting.
 `Python` `PySpark` `Databricks` `Snowflake` `SQL` `Tableau`
 
-#### ⚙️ [BrightMart – Retail DW Automation with Airflow & dbt](https://github.com/itshamzarizwan)
+#### ⚙️ [BrightMart – Retail DW Automation with Airflow & dbt](https://github.com/itshamzarizwan/brightmart-retail-data-warehouse-automation)
 Automated an end-to-end SQLite-to-Snowflake data warehouse via an 18-task Airflow DAG covering ingestion, transformation, testing, and data-quality validation. Built 31 staging models, 9 dimensions, and 6 fact tables across 284K+ records.
 `Apache Airflow` `dbt` `Snowflake` `Docker` `Python`
 
@@ -92,11 +92,11 @@ Full-stack Android marketplace with buyer/seller/admin workflows, powered by Gem
 Embedding-based dense retrieval system using FAISS with Relevance Language Model (RLM) query expansion, benchmarked on TREC-COVID for recall performance.
 `Python` `FAISS` `Sentence-Transformers` `OpenAI Embeddings`
 
-#### 🤖 [Scientific QnA RAG System](https://github.com/itshamzarizwan)
+#### 🤖 [Scientific QnA RAG System](https://github.com/itshamzarizwan/Scientific-RAG-Model)
 Retrieval-Augmented Generation chatbot answering scientific questions from ARXIV papers, combining FAISS vector search with LLM-powered response generation in an interactive Streamlit app.
 `Python` `Streamlit` `Ollama` `FAISS` `Transformers`
 
-#### 💇 [JORRA AI – Virtual Hairstyle Try-On](https://github.com/itshamzarizwan)
+#### 💇 [JORRA AI – Virtual Hairstyle Try-On](https://github.com/itshamzarizwan/JorraAI)
 AI-powered Android app for selfie-based virtual hairstyle visualization, with real-time image generation via REST APIs and a personalized preview experience.
 `Kotlin` `AI Image Processing` `REST APIs` `Vercel`
 
